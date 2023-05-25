@@ -76,9 +76,9 @@
 
       <?php
          // configurazione del database
-         $servername = "EsercitazionePHP";
-         $username = "stavolaalessio";
-         $password = "AlexStable69!";
+         $servername = "localhost";
+         $username = "nome_utente";
+         $password = "password!";
          $dbname = "prova_sistemi";
 
          // connessione al database
